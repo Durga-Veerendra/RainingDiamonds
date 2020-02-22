@@ -1,0 +1,6 @@
+framework module Pods_DiamondAnimation {
+  umbrella header "Pods-DiamondAnimation-umbrella.h"
+
+  export *
+  module * { export * }
+}
